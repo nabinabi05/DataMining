@@ -1,8 +1,7 @@
-
 # Veri setleri
 data/raw/*.csv
 data/processed/*.csv
 *.zip
 *.rar
-
+models/*.pkl
 .DS_Store
